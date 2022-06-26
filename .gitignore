@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .env.local
+codegen.yml
 
 # Editor directories and files
 .vscode/
